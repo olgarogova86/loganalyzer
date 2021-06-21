@@ -1,0 +1,7 @@
+config = {
+    "REPORT_SIZE": 5000,
+    "REPORT_DIR": "./report",
+    "LOG_DIR": "./log"
+}
+
+log_path = "."
