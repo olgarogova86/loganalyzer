@@ -64,3 +64,6 @@ To run test
 
 It will create some files and directory for testing.
 It will be deleted after finish.
+
+## Compatability
+Tested by Python 3.8
